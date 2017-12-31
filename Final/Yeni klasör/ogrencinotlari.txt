@@ -1,0 +1,4 @@
+No		Ad		Not
+5		Yasin		55
+65		ugur		95
+90		ali		25
